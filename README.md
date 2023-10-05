@@ -1,4 +1,2 @@
 # Contador
-Contador Manual para Android
-<p>Clique no botão + para adicionar e no botão - para remover</p>
-<p>Se quiser começar do 0 clique em recomeçar</p>
+Contador manual para Android. O botão + aumenta, o botão - diminui e o botão recomeçar zera o contador.
